@@ -10,3 +10,7 @@ This project is about creating a GitHub repo and collaborating with other users.
 ⋅⋅* Collaborate with their repo
 ⋅⋅* Push changes
 ⋅⋅* etc
+
+
+ CONTRIBUTING 
+ Josiah Meyer urges you to think about adding a module.
